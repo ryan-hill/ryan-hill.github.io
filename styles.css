@@ -42,7 +42,7 @@ body {
   line-height: inherit;
   color: inherit;
   background-color: rgb(40, 42, 54);
-  margin-top: 71px; /* Offset body content by navbar height. */
+  margin-top: 0; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
 }
@@ -326,7 +326,7 @@ a[data-fancybox] img {
 
 .home-section {
   background-color: hsla(231, 15%, 18%, 1);
-  padding: 110px 0 110px 0;
+  padding: 10px 0 10px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
 }
