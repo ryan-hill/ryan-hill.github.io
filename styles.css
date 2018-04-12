@@ -1026,12 +1026,12 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: hsl(339, 90%, 45%) !important;
+  background-color: hsl(225, 26%, 45%) !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: hsl(225, 26%, 78%) !important;
+  background-color: hsl(225, 26%, 70%) !important;
 }
 
 /*************************************************
