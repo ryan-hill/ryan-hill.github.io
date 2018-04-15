@@ -42,7 +42,7 @@ body {
   line-height: inherit;
   color: inherit;
   background-color: rgb(40, 42, 54);
-  margin-top: 0; /* Offset body content by navbar height. */
+  margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
 }
