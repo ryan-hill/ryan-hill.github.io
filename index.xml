@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Lake-Catchment (LakeCat) Dataset: characterizing landscape features for lake basins within the conterminous USA</title>
+      <link>/publication/lakecat/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lakecat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive mapping of the biotic condition of conterminous U.S. rivers and streams</title>
+      <link>/publication/predictive-mapping/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/predictive-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
@@ -241,15 +259,6 @@ git submodule update --init --recursive
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/streamcat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Lake-Catchment (LakeCat) Dataset: characterizing landscape features for lake basins within the conterminous USA</title>
-      <link>/publication/lakecat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/lakecat/</guid>
       <description></description>
     </item>
     

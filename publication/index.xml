@@ -13,20 +13,29 @@
     
     
     <item>
+      <title>The Lake-Catchment (LakeCat) Dataset: characterizing landscape features for lake basins within the conterminous USA</title>
+      <link>/publication/lakecat/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lakecat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive mapping of the biotic condition of conterminous U.S. rivers and streams</title>
+      <link>/publication/predictive-mapping/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/predictive-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Stream-Catchment (StreamCat) Dataset: a database of watershed metrics for the conterminous USA</title>
       <link>/publication/streamcat/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/streamcat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Lake-Catchment (LakeCat) Dataset: characterizing landscape features for lake basins within the conterminous USA</title>
-      <link>/publication/lakecat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/lakecat/</guid>
       <description></description>
     </item>
     
