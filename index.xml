@@ -20,11 +20,38 @@
     </item>
     
     <item>
+      <title>A flow-chart for developing water quality criteria from two field-based methods</title>
+      <link>/publication/flow-chart-water-qual-criteria/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/flow-chart-water-qual-criteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predictive mapping of the biotic condition of conterminous U.S. rivers and streams</title>
       <link>/publication/predictive-mapping/</link>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/predictive-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology</title>
+      <link>/publication/random-forest-variable-selection/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/random-forest-variable-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping watershed integrity for the conterminous United States</title>
+      <link>/publication/mapping-watershed-integrity/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mapping-watershed-integrity/</guid>
       <description></description>
     </item>
     
@@ -259,6 +286,33 @@ git submodule update --init --recursive
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/streamcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A watershed integrity definition and assessment approach to support strategic management of watersheds</title>
+      <link>/publication/watershed-integrity-definition/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/watershed-integrity-definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using modelled stream temperatures to predict macro‐spatial patterns of stream invertebrate biodiversity</title>
+      <link>/publication/modelled-temperature-predict-biota/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/modelled-temperature-predict-biota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting thermal reference conditions for USA streams and rivers</title>
+      <link>/publication/predicting-thermal-ref-condition/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/predicting-thermal-ref-condition/</guid>
       <description></description>
     </item>
     

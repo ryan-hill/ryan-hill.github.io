@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="We developed an extensive database of landscape metrics for ~2.65 million stream segments, and their associated catchments, within the conterminous United States (U.S.): The Stream‐Catchment (StreamCat) Dataset. These data are publically available (http://www2.epa.gov/national-aquatic-resource-surveys/streamcat) and greatly reduce the specialized geospatial expertise needed by researchers and managers to acquire landscape information for both catchments (i.e., the nearby landscape flowing directly into streams) and full upstream watersheds of specific stream reaches. When combined with an existing geospatial framework of the Nation&#39;s rivers and streams (National Hydrography Dataset Plus Version 2), the distribution of catchment and watershed characteristics can be visualized for the conterminous U.S. In this article, we document the development and main features of this dataset, including the suite of landscape features that were used to develop the data, scripts and algorithms used to accumulate and produce watershed summaries of landscape features, and the quality assurance procedures used to ensure data consistency. The StreamCat Dataset provides an important tool for stream researchers and managers to understand and characterize the Nation&#39;s rivers and streams.">
+  <meta name="description" content="Field-based methods increase relevance and realism when setting water quality criteria. They also pose challenges. To enable a consistent process, a flow chart was developed for choosing between two field-based methods and then selecting among candidate results. The two field-based methods estimated specific conductivity (SC) levels likely to extirpate 5% of benthic invertebrate genera: an extirpation concentration distribution (XCD) method and a background-to-criterion (B-C) model developed by the U.S. Environmental Protection Agency. The B-C model is a least squares regression of the 5th centile of XCD (XCD05) values against estimates of background SC. Selection of an XCD05 from the flowchart is determined by characteristics of the paired chemical and biological data sets and method for estimating the XCD05 values. Confidence in these example SC XCD05 values is based on the size of the data sets and ecoregional SC disturbance. The level of ecoregional SC disturbance was judged by comparing the background SC (the 25th centile of the data set used to calculate a XCD05) and an estimate of natural base-flow SC modeled from geophysical attributes in the region. The B-C approach appears to be a viable option for estimating a SC benchmark with inexpensive estimates of SC background while the XCD method is used when the data are abundant. To illustrate the use of the flow chart, example SC XCD05 values were calculated for 63 of 86 Level III ecoregions in the conterminous United States of America.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/streamcat/">
+  <link rel="alternate" hreflang="en-us" href="/publication/flow-chart-water-qual-criteria-copy/">
 
   
 
@@ -71,24 +71,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/streamcat/">
+  <link rel="canonical" href="/publication/flow-chart-water-qual-criteria-copy/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Ryan A Hill">
-  <meta property="og:url" content="/publication/streamcat/">
-  <meta property="og:title" content="The Stream-Catchment (StreamCat) Dataset: a database of watershed metrics for the conterminous USA | Ryan A Hill">
-  <meta property="og:description" content="We developed an extensive database of landscape metrics for ~2.65 million stream segments, and their associated catchments, within the conterminous United States (U.S.): The Stream‐Catchment (StreamCat) Dataset. These data are publically available (http://www2.epa.gov/national-aquatic-resource-surveys/streamcat) and greatly reduce the specialized geospatial expertise needed by researchers and managers to acquire landscape information for both catchments (i.e., the nearby landscape flowing directly into streams) and full upstream watersheds of specific stream reaches. When combined with an existing geospatial framework of the Nation&#39;s rivers and streams (National Hydrography Dataset Plus Version 2), the distribution of catchment and watershed characteristics can be visualized for the conterminous U.S. In this article, we document the development and main features of this dataset, including the suite of landscape features that were used to develop the data, scripts and algorithms used to accumulate and produce watershed summaries of landscape features, and the quality assurance procedures used to ensure data consistency. The StreamCat Dataset provides an important tool for stream researchers and managers to understand and characterize the Nation&#39;s rivers and streams.">
+  <meta property="og:url" content="/publication/flow-chart-water-qual-criteria-copy/">
+  <meta property="og:title" content="A flow-chart for developing water quality criteria from two field-based methods | Ryan A Hill">
+  <meta property="og:description" content="Field-based methods increase relevance and realism when setting water quality criteria. They also pose challenges. To enable a consistent process, a flow chart was developed for choosing between two field-based methods and then selecting among candidate results. The two field-based methods estimated specific conductivity (SC) levels likely to extirpate 5% of benthic invertebrate genera: an extirpation concentration distribution (XCD) method and a background-to-criterion (B-C) model developed by the U.S. Environmental Protection Agency. The B-C model is a least squares regression of the 5th centile of XCD (XCD05) values against estimates of background SC. Selection of an XCD05 from the flowchart is determined by characteristics of the paired chemical and biological data sets and method for estimating the XCD05 values. Confidence in these example SC XCD05 values is based on the size of the data sets and ecoregional SC disturbance. The level of ecoregional SC disturbance was judged by comparing the background SC (the 25th centile of the data set used to calculate a XCD05) and an estimate of natural base-flow SC modeled from geophysical attributes in the region. The B-C approach appears to be a viable option for estimating a SC benchmark with inexpensive estimates of SC background while the XCD method is used when the data are abundant. To illustrate the use of the flow chart, example SC XCD05 values were calculated for 63 of 86 Level III ecoregions in the conterminous United States of America.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-01-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-02-01T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2016-01-01T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-02-01T00:00:00&#43;00:00">
   
 
-  <title>The Stream-Catchment (StreamCat) Dataset: a database of watershed metrics for the conterminous USA | Ryan A Hill</title>
+  
+
+  <title>A flow-chart for developing water quality criteria from two field-based methods | Ryan A Hill</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
@@ -227,10 +227,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">The Stream-Catchment (StreamCat) Dataset: a database of watershed metrics for the conterminous USA</h1>
+    <h1 itemprop="name">A flow-chart for developing water quality criteria from two field-based methods</h1>
     <span class="pub-authors" itemprop="author">
       
-      <strong>Ryan A. Hill</strong>, Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, Darren J. Thornbrugh
+      Susan M. Cormier, Lei Zheng, <strong>Ryan A. Hill</strong>, Rachael M. Novak, Colleen M. Flaherty
       
     </span>
     <span class="pull-right">
@@ -239,35 +239,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=The%20Stream-Catchment%20%28StreamCat%29%20Dataset%3a%20a%20database%20of%20watershed%20metrics%20for%20the%20conterminous%20USA&amp;url=%2fpublication%2fstreamcat%2f"
+         href="https://twitter.com/intent/tweet?text=A%20flow-chart%20for%20developing%20water%20quality%20criteria%20from%20two%20field-based%20methods&amp;url=%2fpublication%2fflow-chart-water-qual-criteria-copy%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fstreamcat%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fflow-chart-water-qual-criteria-copy%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fstreamcat%2f&amp;title=The%20Stream-Catchment%20%28StreamCat%29%20Dataset%3a%20a%20database%20of%20watershed%20metrics%20for%20the%20conterminous%20USA"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fflow-chart-water-qual-criteria-copy%2f&amp;title=A%20flow-chart%20for%20developing%20water%20quality%20criteria%20from%20two%20field-based%20methods"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fstreamcat%2f&amp;title=The%20Stream-Catchment%20%28StreamCat%29%20Dataset%3a%20a%20database%20of%20watershed%20metrics%20for%20the%20conterminous%20USA"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fflow-chart-water-qual-criteria-copy%2f&amp;title=A%20flow-chart%20for%20developing%20water%20quality%20criteria%20from%20two%20field-based%20methods"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=The%20Stream-Catchment%20%28StreamCat%29%20Dataset%3a%20a%20database%20of%20watershed%20metrics%20for%20the%20conterminous%20USA&amp;body=%2fpublication%2fstreamcat%2f">
+         href="mailto:?subject=A%20flow-chart%20for%20developing%20water%20quality%20criteria%20from%20two%20field-based%20methods&amp;body=%2fpublication%2fflow-chart-water-qual-criteria-copy%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -281,7 +281,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We developed an extensive database of landscape metrics for ~2.65 million stream segments, and their associated catchments, within the conterminous United States (U.S.): The Stream‐Catchment (StreamCat) Dataset. These data are publically available (<a href="http://www2.epa.gov/national-aquatic-resource-surveys/streamcat" target="_blank">http://www2.epa.gov/national-aquatic-resource-surveys/streamcat</a>) and greatly reduce the specialized geospatial expertise needed by researchers and managers to acquire landscape information for both catchments (i.e., the nearby landscape flowing directly into streams) and full upstream watersheds of specific stream reaches. When combined with an existing geospatial framework of the Nation&rsquo;s rivers and streams (National Hydrography Dataset Plus Version 2), the distribution of catchment and watershed characteristics can be visualized for the conterminous U.S. In this article, we document the development and main features of this dataset, including the suite of landscape features that were used to develop the data, scripts and algorithms used to accumulate and produce watershed summaries of landscape features, and the quality assurance procedures used to ensure data consistency. The StreamCat Dataset provides an important tool for stream researchers and managers to understand and characterize the Nation&rsquo;s rivers and streams.</p>
+    <p class="pub-abstract" itemprop="text">Field-based methods increase relevance and realism when setting water quality criteria. They also pose challenges. To enable a consistent process, a flow chart was developed for choosing between two field-based methods and then selecting among candidate results. The two field-based methods estimated specific conductivity (SC) levels likely to extirpate 5% of benthic invertebrate genera: an extirpation concentration distribution (XCD) method and a background-to-criterion (B-C) model developed by the U.S. Environmental Protection Agency. The B-C model is a least squares regression of the 5th centile of XCD (XCD05) values against estimates of background SC. Selection of an XCD05 from the flowchart is determined by characteristics of the paired chemical and biological data sets and method for estimating the XCD05 values. Confidence in these example SC XCD05 values is based on the size of the data sets and ecoregional SC disturbance. The level of ecoregional SC disturbance was judged by comparing the background SC (the 25th centile of the data set used to calculate a XCD05) and an estimate of natural base-flow SC modeled from geophysical attributes in the region. The B-C approach appears to be a viable option for estimating a SC benchmark with inexpensive estimates of SC background while the XCD method is used when the data are abundant. To illustrate the use of the flow chart, example SC XCD05 values were calculated for 63 of 86 Level III ecoregions in the conterminous United States of America.</p>
     
 
     
@@ -310,7 +310,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9"><em>Journal of the American Water Resources Association</em> 52: 120-128</div>
+          <div class="col-xs-12 col-sm-9"><em>Science of the Total Environment</em> <a href="https://doi.org/10.1016/j.scitotenv.2018.01.137" target="_blank">https://doi.org/10.1016/j.scitotenv.2018.01.137</a></div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -324,7 +324,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            January, 2016
+            February, 2018
           </div>
         </div>
       </div>
@@ -347,20 +347,6 @@
 
 
 
-<button type="button" class="btn btn-primary btn-outline js-cite-modal"
-        data-filename="/files/citations/streamcat.bib">
-  Cite
-</button>
-
-
-<a class="btn btn-primary btn-outline" href="https://github.com/USEPA/StreamCat" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline" href="https://www.epa.gov/national-aquatic-resource-surveys/streamcat" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
 
@@ -370,7 +356,8 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/1752-1688.12372" target="_blank" rel="noopener">
+
+<a class="btn btn-primary btn-outline" href="https://www.sciencedirect.com/science/article/pii/S0048969718301591?via%3Dihub" target="_blank" rel="noopener">
   Journal
 </a>
 
