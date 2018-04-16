@@ -308,11 +308,29 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>Predicting thermal vulnerability of stream and river ecosystems to climate change</title>
+      <link>/publication/climate-change/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting thermal reference conditions for USA streams and rivers</title>
       <link>/publication/predicting-thermal-ref-condition/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       
       <guid>/publication/predicting-thermal-ref-condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reference condition: predicting benchmarks for ecological and water-quality assessments</title>
+      <link>/publication/reference-condition/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/reference-condition/</guid>
       <description></description>
     </item>
     
