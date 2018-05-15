@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>/publication/mapping-watershed-integrity/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/predictive-mapping/</loc>
       <lastmod>2017-09-04T00:00:00+00:00</lastmod>
     </url>
@@ -34,15 +43,6 @@
     
       <loc>/publication/random-forest-variable-selection/</loc>
       <lastmod>2017-06-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/mapping-watershed-integrity/</loc>
-      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
