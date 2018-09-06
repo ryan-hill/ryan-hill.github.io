@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Nitrogen inputs drive nitrogen concentrations in US streams and rivers during summer low flow conditions</title>
+      <link>/publication/nitrogen-inputs-drive-concentrations/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nitrogen-inputs-drive-concentrations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Lake-Catchment (LakeCat) Dataset: characterizing landscape features for lake basins within the conterminous USA</title>
       <link>/publication/lakecat/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
@@ -31,15 +40,6 @@
     </item>
     
     <item>
-      <title>Mapping watershed integrity for the conterminous United States</title>
-      <link>/publication/mapping-watershed-integrity/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mapping-watershed-integrity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Predictive mapping of the biotic condition of conterminous U.S. rivers and streams</title>
       <link>/publication/predictive-mapping/</link>
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
@@ -54,6 +54,15 @@
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/random-forest-variable-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping watershed integrity for the conterminous United States</title>
+      <link>/publication/mapping-watershed-integrity/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mapping-watershed-integrity/</guid>
       <description></description>
     </item>
     
